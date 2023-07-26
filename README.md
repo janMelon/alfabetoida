@@ -19,19 +19,19 @@ Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which
 |Kk|/k/|Κκ|Κκ|Кк|
 |Ll|/l/|Λλ|Λλ|Лл|
 |Mm|/m/|Μμ|Μμ|Мм|
-|Nn|||||
-|Oo|||||
-|Pp|||||
-|Qq|||||
-|Rr|||||
-|Ss|||||
-|Tt|||||
-|Uu|||||
-|Vv|||||
-|Ww|||||
-|Xx|||||
-|Yy|||||
-|Zz|||||
+|Nn|/n/|Νν|Νν|Нн|
+|Oo|/o/|Οο|Οο, Ωω|Оо|
+|Pp|/p/|Ππ|Ππ|Пп|
+|Qq|/q/, /k/|Ϙϙ|Κκ|Кк|
+|Rr|/r/|Ρρ|Ρρ|Рр|
+|Ss|/s/|Σσς|Σσς|Сс|
+|Tt|/t/|Ττ|Ττ|Тт|
+|Uu|/u/|Υυ|ΟΥ, ου|Уу|
+|Vv|/v/|Ϝϝ|Ββ|Вв|
+|Ww|/w/|Ϝϝ|Υυ|Ўў|
+|Xx|/ks/|Ξξ|Ξξ|ks|
+|Yy|/j/|Υυ|Υυ|Зз|
+|Zz|/z/|Ζζ||Зз|
 
 
 ## Modified Letters
