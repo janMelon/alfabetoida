@@ -4,8 +4,34 @@ Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which
 ![Sample Text](https://github.com/janMelon/alfabetoida/blob/main/He-Alfabetoida.png)
 
 ## A Comparison between Latin, Greek, & Cyrillic 
-|ASCII Latin|IPA pronunciation|Historical Greek Ancenstor|21st Century Greek Equivalent|21st Century Cyrillic Equivalent|
+|ASCII Latin|IPA Pronunciation|Historical Greek Ancenstor|21st Century Greek Equivalent|21st Century Cyrillic Equivalent|
 |---|---|---|---|---|
 |Aa|/a/|Αα|α|Аа|
+|Bb|/b/|Ββ|ΜΠ, μπ|Бб|
+|Cc|/k/,/s/|Γγ|Κκ, Σσ|к, с|
+|Dd|/d/|Δδ|ΝΤ, ντ|Дд|
+|Ee|/e/|Εε|Εε|Ээ|
+|Ff|/f/|Ϝϝ|Φφ|Фф|
+|Gg|/g/|Γγ|ΓΚ, γκ|Гг|
+|Hh|/h/|Ηη|Χχ|Хх|
+|Ii|/i/|Ιι|Ιι, Ηη|Ии, Іі|
+|Jj|/dʒ/|Ιι|Ζζ|Жж|
+|Kk|/k/|Κκ|Κκ|Кк|
+|Ll|/l/|Λλ|Λλ|Лл|
+|Mm|/m/|Μμ|Μμ|Мм|
+|Nn|||||
+|Oo|||||
+|Pp|||||
+|Qq|||||
+|Rr|||||
+|Ss|||||
+|Tt|||||
+|Uu|||||
+|Vv|||||
+|Ww|||||
+|Xx|||||
+|Yy|||||
+|Zz|||||
 
-## Adapted Letters
+
+## Modified Letters
