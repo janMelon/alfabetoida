@@ -31,7 +31,7 @@ Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which
 |Ww|/w/|Ϝϝ|Υυ|Ўў|
 |Xx|/ks/|Ξξ|Ξξ|ks|
 |Yy|/j/|Υυ|Υυ|Зз|
-|Zz|/z/|Ζζ||Зз|
+|Zz|/z/|Ζζ|Ζζ|Зз|
 
 
 ## Modified Letters
