@@ -1,4 +1,4 @@
-Copyright (c) 2023, jan Melon (https://github.com/janMelon|janmelon@duck.com),
+Copyright (c) 2023, jan Melon (https://github.com/janMelon/alfabetoida|janmelon@duck.com),
 with Reserved Font Name Alfabetoida.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
