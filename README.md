@@ -6,13 +6,13 @@ Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which
 ## A Comparison between Latin, Greek, & Cyrillic 
 |ASCII Latin|IPA Pronunciation|Historical Greek Ancenstor|21st Century Greek Equivalent|21st Century Cyrillic Equivalent|
 |---|---|---|---|---|
-|Aa|/a/|Αα|α|Аа|
+|Aa|/a/|Αα|Αα|Аа|
 |Bb|/b/|Ββ|ΜΠ, μπ|Бб|
 |Cc|/k/,/s/|Γγ|Κκ, Σσ|к, с|
 |Dd|/d/|Δδ|ΝΤ, ντ|Дд|
-|Ee|/e/|Εε|Εε|Ээ|
+|Ee|/e/|Εε|Εε, ΑΙ/αι|Ээ|
 |Ff|/f/|Ϝϝ|Φφ|Фф|
-|Gg|/g/|Γγ|ΓΚ, γκ|Гг|
+|Gg|/g/|Γγ|ΓΚ/γκ|Гг|
 |Hh|/h/|Ηη|Χχ|Хх|
 |Ii|/i/|Ιι|Ιι, Ηη|Ии, Іі|
 |Jj|/dʒ/|Ιι|Ζζ|Жж|
@@ -26,11 +26,11 @@ Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which
 |Rr|/r/|Ρρ|Ρρ|Рр|
 |Ss|/s/|Σσς|Σσς|Сс|
 |Tt|/t/|Ττ|Ττ|Тт|
-|Uu|/u/|Υυ|ΟΥ, ου|Уу|
+|Uu|/u/|Υυ|ΟΥ/ου|Уу|
 |Vv|/v/|Ϝϝ|Ββ|Вв|
-|Ww|/w/|Ϝϝ|Υυ|Ўў|
+|Ww|/w/|Ϝϝ|Ϋϋ|Ўў|
 |Xx|/ks/|Ξξ|Ξξ|ks|
-|Yy|/j/|Υυ|Υυ|Зз|
+|Yy|/j/|Υυ|Ϊϊ, Γγ(εια)|Йй|
 |Zz|/z/|Ζζ|Ζζ|Зз|
 
 
