@@ -15,7 +15,7 @@ Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which
 |Gg|/g/|Γγ|ΓΚ/γκ|Гг|
 |Hh|/h/|Ηη|Χχ|Хх|
 |Ii|/i/|Ιι|Ιι, Ηη|Ии, Іі|
-|Jj|/dʒ/|Ιι|Ζζ|Жж|
+|Jj|/dʒ/|Ιι|ΤΖ/τζ|Жж|
 |Kk|/k/|Κκ|Κκ|Кк|
 |Ll|/l/|Λλ|Λλ|Лл|
 |Mm|/m/|Μμ|Μμ|Мм|
@@ -35,35 +35,22 @@ Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which
 
 
 ## Modified Letters
-Most latin letters still retain the same or a similar form to their the greek counterparts, but others require some adjustments.
+Most latin letters still retain a similar shape and sound to their the greek counterparts, but others require some adjustments.
 
-* /b/: To avoid current greek pronunciation of ⟨Β/β⟩ that is closer to /v/, a stylized version of the cyrillic ⟨Б⟩ is used instead.
-* /d/: Current greek ⟨δ⟩ is pronounced as /ð/. The sound /ð/ is also found in english (commonly written as ⟨th⟩, e.g. "this"), but is often reduced to /d/.
-*  
-Meanwhile, ⟨v⟩ is stylized to look a bit like a slanted vau a.k.a. digamma ⟨ϝ⟩.
-
-Lower case lambda ⟨λ⟩ is flipped, resembling the symbol for voiced palatal lateral approximant ⟨ʎ⟩, then stylized to look like upper case ⟨L⟩.
-
-A compromise is made between upper case nu ⟨Ν⟩, ⟨N⟩, and cyrillic ⟨Н⟩ by making the mid bar slanted.
-
-The left leg of pi ⟨π⟩ is elongated to make it aligned with lower case ⟨p⟩. 
-
-The loop in rho ⟨ρ⟩ is left incomplete and its leg is shortened, resembling a lower case ⟨r⟩. The loop in lower case phi ⟨φ⟩ is also left incomplete, making it a stylized ⟨f⟩.
-
-The word-final sigma ⟨ς⟩ is chosen due its similarity to latin ⟨s⟩ and cyrillic ⟨с⟩. 
-
-
-
-IDEAS FOR OTHER ASCII LETTERS (not used in the conlang)
-
-⟨w⟩ can be stylizing it into a rotated digamma ⟨ϝ⟩, something like ⟨𐡔⟩.
-
-The i-breve ⟨ĭ⟩ can be used for the latin ⟨Y⟩ when it's pronounced as /j/.
-
-The latin ⟨J⟩ can be written as a stylized lower case zeta ⟨ζ⟩ when it is pronounced as /ʤ/.
-
-Upper case ⟨Q⟩ is similar enough to koppa ⟨Ϙ⟩.
-
-The ambiguous pronunciation of latin ⟨c⟩ across languages can be written with an angular ⟨<⟩ to mean /k/ or the word-final sigma ⟨ς⟩ to mean /s/.
-
-The latin ⟨x⟩ (when it's pronounced as /ks/) can be stylized into something resembling a slanted upper case xi ⟨Ξ⟩, something like ⟨٪⟩ or ⟨ミ⟩.
+* Bb: To avoid current greek pronunciation of ⟨Β/β⟩ that is closer to /v/, a stylized version of the cyrillic ⟨Б⟩ is used instead, which is pronunced as /b/ and resembles both lower case ⟨b⟩ and ⟨β⟩.
+* Cc: The letter ⟨c⟩ is written with an angular form ⟨<⟩ to resemble gamma ⟨Γ⟩ as a reference to its origin, the right part of ⟨k⟩ to signify the hard /k/ pronunciation, and the lunate form of sigma ⟨ϲ⟩ or cyrillic ⟨с⟩ to signify its soft /s/ pronunciation.
+* Dd: Lower case delta ⟨δ⟩ is chosen due to its resemblance to latin ⟨d⟩, evem though its current greek ⟨δ⟩ is closer to /ð/. The sound /ð/ is also found in english (commonly written as ⟨th⟩, e.g. "this"), but is sometimes reduced to /d/.
+* Ff: The right part of the loop in a lower case phi ⟨𝜑⟩ is disconnected to turn it into a latin ⟨f⟩.
+* Gg: The left side of a lower case gamma ⟨ɣ⟩ is turned into a loop to make it resemble a lower case ⟨ꬶ⟩. Current greek pronunciation of ⟨ɣ⟩ is /ɣ/, fairly close to /g/, and often transliterated as ⟨g⟩ or ⟨gh⟩.
+* Hh: The latin upper case ⟨Η⟩ is stylized to look like the letter chi ⟨Χ⟩. The current greek pronunciation of chi is /x/ and it has a cyrillic counterpart ⟨Х⟩ pronounced as /x/ or /h/.
+* Jj: The lower case zeta ⟨ζ⟩ is written in a lower position so that its tail becomes the descender of a lower case ⟨j⟩ or ⟨ʒ⟩. The letter ezh ⟨ʒ⟩, which is used in the IPA for the pronunciation of ⟨J/j⟩ as /dʒ/, was also developed from zeta ⟨ζ⟩.
+* Ll: Lower case lambda ⟨λ⟩ is mirrored horizontally into something like ⟨ʎ⟩. Then its ascender is made higher and its right leg is made less steep to resemble an upper case ⟨L⟩.
+* Nn: A compromise is made between upper case greek nu ⟨Ν⟩, latin ⟨N⟩, and cyrillic ⟨Н⟩ by making the mid bar slanted.
+* Pp: The left leg of pi ⟨π⟩ is elongated to turn it into the descender of a lower case ⟨p⟩.
+* Qq: The upper case greek letter koppa ⟨Ϙ⟩ is similar enough to upper case ⟨Q⟩, even though it's no longer used in current greek.
+* Rr: The descender in lower case rho ⟨ρ⟩ is shortened and its loop is left unclosed to make it more like a lower case ⟨r⟩.
+* Ss: The word-final lower case sigma ⟨ς⟩ is chosen due its similarity to latin ⟨s⟩ and cyrillic ⟨с⟩.
+* Vv: The latin ⟨V/v⟩ is stylized to look a bit like a slanted vau/wau/digamma ⟨ϝ⟩, which used to represnt /v/ or /w/ even though it is no longer used in current greek.
+* Ww: The latin ⟨W/w⟩ is stylized to look a bit like a rotated vau/wau/digamma ⟨ϝ⟩.
+* Xx: The top and bottom line of an upper case ksi ⟨Ξ⟩ are given slanted serifs to make it look like the latin ⟨X/x⟩ that is pronounced as /ks/.
+* Yy: The breve/vrachy in a lower case iota with vrachy ⟨ῐ⟩ or a latin ⟨ῐ⟩ is made more prominent so that it resembles the latin upper case ⟨Y⟩. It is pronounced as a short /i/ and follows the convention of using a breve to mark non-syllabic vowels, like /ɪ̯/ that sounds similar to /j/
