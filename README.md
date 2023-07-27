@@ -1,5 +1,5 @@
 # alfabetoida
-Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which is the correct transliteration from the common example of GRΣΣΚ). It's a stylized latin alphabet made to look like its greek equivalent while trying to maintain its current pronunciation. Some letter forms from the cyrillic alphabet were also taken as inspiration due to their closer resemblance to greek. You can download the latest font [in the release page](https://github.com/janMelon/alfabetoida/releases)
+Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which is the correct transliteration from the common example of GRΣΣΚ). It's a stylized latin alphabet made to look like its greek equivalent while trying to maintain its current pronunciation. Some letter forms from the cyrillic alphabet were also taken as inspiration due to their closer resemblance to greek. This font is released under [SIL Open Font License](https://scripts.sil.org/OFL) and you can download the latest version [in the release page](https://github.com/janMelon/alfabetoida/releases)
 
 ![Sample Text](https://github.com/janMelon/alfabetoida/blob/main/He-Alfabetoida.png)
 
@@ -35,7 +35,7 @@ Alfabetoida is a font for writing fake greek texts (also known as "GRSSK", which
 
 
 ## Modified Letters
-Most latin letters still retain a similar shape and sound to their the greek counterparts, but others require some adjustments.
+Most latin letters still retain similar shapes and sounds to their greek counterparts, but others require some adjustments.
 
 * Bb: To avoid current greek pronunciation of ⟨Β/β⟩ that is closer to /v/, a stylized version of the cyrillic ⟨Б⟩ is used instead, which is pronunced as /b/ and resembles both lower case ⟨b⟩ and ⟨β⟩.
 * Cc: The letter ⟨c⟩ is written with an angular form ⟨<⟩ to resemble gamma ⟨Γ⟩ as a reference to its origin, the right part of ⟨k⟩ to signify the hard /k/ pronunciation, and the lunate form of sigma ⟨ϲ⟩ or cyrillic ⟨с⟩ to signify its soft /s/ pronunciation.
